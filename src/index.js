@@ -4,7 +4,7 @@ import App from "./App";
 import { ThemeProvider } from "./ThemeContext";
 import * as serviceWorker from "./serviceWorker";
 
-// import "DayNightToggle.scss";
+import "./dayNightToggle.scss";
 
 ReactDOM.render(
   <ThemeProvider>
